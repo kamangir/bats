@@ -1,6 +1,6 @@
 from setuptools import setup
 
-from blue_plugin import NAME, VERSION
+from bats import NAME, VERSION
 
 setup(
     name=NAME,
@@ -9,3 +9,4 @@ setup(
     description="template for an abcli plugin",
     packages=[NAME],
 )
+
