@@ -5,3 +5,4 @@ function abcli_install_bats() {
 }
 
 abcli_install_module bats 101
+

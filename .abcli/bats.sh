@@ -33,3 +33,4 @@ function bats() {
         $task \
         ${@:2}
 }
+
